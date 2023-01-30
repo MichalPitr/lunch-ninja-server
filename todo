@@ -1,0 +1,7 @@
+- Add register/login support via FireAuth (User signs up with Edinburgh email address and password, gets email confirmation.)
+- Add Forgot password support
+- add Signup for lunch-ninja (weekly only no preferences by default, random matching)
+- Add option to opt-out of lunch-ninja
+- add scheduler which runs once a week at a set time, then sends email notifications to users
+- add database support (Need user-id to preferences (for MVP, just use "opt-in" boolean))
+- add "close my account" option
